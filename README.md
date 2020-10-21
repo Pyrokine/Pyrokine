@@ -1,7 +1,27 @@
-### Hi there 👋
+
+### Hello hello hello 👋
 
 <!--
-**Pyrokine/Pyrokine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pyrokine)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyrokine)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
+- I am Pyrokine 
+- studying Web, Crawler, SLAM and python 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pyrokine&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyrokine" />
+</a>
+
+
+<!--
+**yoyoyo-yo/yoyoyo-yo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
